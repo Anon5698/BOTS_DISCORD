@@ -2,9 +2,9 @@ import discord
 from discord import app_commands
 from discord.ext import commands
 
-id_do_servidor = 1134241690937471107 #Coloque aqui o ID do seu servidor
-id_cargo_atendente = 1134241691033931886 #Coloque aqui o ID do cargo de atendente
-token_bot = "MTEzMzk2NDczMTI5MjU5NDE5Ng.GH2Brl.3CwLHTHF4cEF1h70Z2aOXaVmo39zqnFZQU2xmA" #Coloque aqui seu Token do BOT | OBS: Não compartilhe em hipótese alguma o Token
+id_do_servidor =  #Coloque aqui o ID do seu servidor
+id_cargo_atendente =  #Coloque aqui o ID do cargo de atendente
+token_bot = "" #Coloque aqui seu Token do BOT | OBS: Não compartilhe em hipótese alguma o Token
 
 class Dropdown(discord.ui.Select):
     def __init__(self):
